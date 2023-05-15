@@ -1,0 +1,5 @@
+"String Manipulations", bir metin işleme terimidir ve programlama dillerinde sıklıkla kullanılır. Metin veya string olarak adlandırılan bir dizi karakter üzerinde çeşitli işlemler yapmayı ifade eder.
+
+Bunlara örnek olarak, bir metnin karakterlerini büyük veya küçük harfe dönüştürmek, belirli bir karakter dizisini içeren alt dizileri aramak, metin içindeki belirli karakterleri değiştirmek, metinleri birleştirmek veya ayırmak, metinlerin boşluklarını kaldırmak veya eklemek vb. verilebilir.
+
+String manipülasyonları, birçok programlama dili tarafından desteklenir ve genellikle veritabanı yönetimi, web geliştirme ve yazılım uygulamaları gibi birçok alanda kullanılır.
